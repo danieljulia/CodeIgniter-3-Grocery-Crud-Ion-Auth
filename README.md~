@@ -1,0 +1,10 @@
+# CodeIgniter-3-Grocery-Crud-Ion-Auth
+
+install
+----
+
+* Create mysql database and import sql/codeigniter.sql.gz
+* Change database configuration in application/config/database.php
+
+enjoy
+
